@@ -9,9 +9,9 @@ Project: ENPM703-Fundamentals of AI and Deep Learning
 * Developed and integrated Region of Interest (RoI) pooling layer, improving IoU by 15%, with over 15k+ KITTI 3D samples.
 
 ## Contributors
-Hamsaavarthan Ravichandar
-Anbarasan Kandasamy
-Manoj Kumar Selvaraj
+* Hamsaavarthan Ravichandar
+* Anbarasan Kandasamy
+* Manoj Kumar Selvaraj
 
 ## About VoxelNet
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/5d80b451-16f7-4413-a9ad-83e232079c98" />
